@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/screens/banner.jpg" alt="GenryTB — Tiny Bunny" width="100%"></p>
+
 # GenryTB — конструктор модов «Зайчика» (Tiny Bunny)
 
 **[English below](#english)** · **[Вики](https://github.com/GenryTheFox0/GenryTB/wiki)** · **[Скачать](https://github.com/GenryTheFox0/GenryTB/releases/latest)**

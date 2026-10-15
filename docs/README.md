@@ -1,4 +1,4 @@
-<p align="center"><img src="screens/suefa_katya.jpg" alt="GenryTB" width="720"></p>
+<p align="center"><img src="screens/banner.jpg" alt="GenryTB — Tiny Bunny" width="100%"></p>
 
 # Вики GenryTB
 
