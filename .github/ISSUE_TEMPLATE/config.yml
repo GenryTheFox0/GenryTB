@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Telegram — новости и вопросы
+    url: https://t.me/teamgenrythefox
+    about: Новые версии, планы, спросить, показать мод.
+  - name: Вики — как делать моды
+    url: https://github.com/GenryTheFox0/GenryTB/wiki
+    about: Установка, первый мод, все команды, мини-игры.

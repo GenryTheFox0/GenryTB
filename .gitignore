@@ -1,0 +1,26 @@
+# build output and the deployed app
+build/
+app/
+# work files: tests, extracted game pictures, logs, caches
+work/
+# the game's own scripts (decompiled for reference) and the decompiler: never published
+tools/tb_rpyc/
+tools/unrpyc/
+# the user's projects (only the samples go in)
+projects/*
+!projects/first_mod/
+!projects/alisa_night/
+!projects/motion_test/
+!projects/spasti_katyu/
+# generator previews
+data/assets/hands/*/preview.png
+data/assets/suefa_bg/sheet.jpg
+__pycache__/
+*.pyc
+# release output and local build scripts (they point at this machine's Qt)
+dist/
+build_release/
+*.cmd
+*.bat
+# the game's voiced lines with their words: made from your own copy by tools/make_tb_catalog.py
+data/tb_voice.json
